@@ -52,9 +52,7 @@ function main() {
 */
 
 class Solution {
-
-   segregate0and1(arr, n) {
-
+    segregate0and1(arr, n) {
         let left = 0;
         let right = n - 1;
 
